@@ -1,0 +1,14 @@
+//
+// Created by kieran on 12/20/18.
+//
+
+#ifndef WEATHERMARKOVCHAIN_DATAREADER_H
+#define WEATHERMARKOVCHAIN_DATAREADER_H
+
+
+class DataReader {
+
+};
+
+
+#endif //WEATHERMARKOVCHAIN_DATAREADER_H
